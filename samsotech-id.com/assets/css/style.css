@@ -2346,13 +2346,13 @@ section {
         animation: slideContent ease-out .6s;
         max-width: 400px;
         justify-content: center;
-
+        gap:10px;
     }
 
     .hero-banner .container .slide-container .slide .content h3 {
         font-size: 3.5rem;
         font-weight: 600;
-        line-height: 3rem;
+        line-height: 3.2rem;
     }
 
     .hero-banner .container .slide-container .slide a {
