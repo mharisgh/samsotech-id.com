@@ -1,0 +1,5 @@
+User-agent:*
+Disallow:/root_admin
+Disallow:/web_before_25062021-950
+Disallow:/beta
+Sitemap: https://samsotech-id.com/sitemap.xml
