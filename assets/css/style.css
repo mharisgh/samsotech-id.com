@@ -2327,7 +2327,6 @@ section {
         justify-self: center;
         position: relative;
         min-height: 500px;
-        display: flex;
         display: grid;
         align-items: center;
     }
@@ -2336,7 +2335,6 @@ section {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        padding: 0 10%;
     }
 
     .hero-banner .container .slide-container .slide .content {
@@ -2392,9 +2390,9 @@ section {
         position: absolute;
         display: flex;
         gap: 10px;
-        padding: 0 10%;
         align-items: center;
         bottom: 3%;
+        left:1%;
     }
 
     .prev-next {
@@ -2505,9 +2503,9 @@ section {
             flex-direction: column-reverse;
             width: 100%;
             gap: 30px;
-            padding: 0;
+            left: 0%;
             position: relative;
-            margin-top: 30px;
+            margin: 30px 0;
         }
     }
 
